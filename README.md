@@ -1,14 +1,18 @@
 # Travel-blog
 
+
+Building RESTful API with Node.js and Express, 
+MongoDB is used with Mongoose for data storage.
+
 ## Screenshots
 
-<p float="left">
+<p float="center">
 <img src="Screenshots/home.PNG"</img>
 </p>
 
+<br>
 
-<p float="left">
+<p float="center">
 <img src="Screenshots/add_new_place.PNG" height="350" width="500" </img>
 <img src="Screenshots/read_more.PNG" height="350" width="500" </img>
-
 </p>
