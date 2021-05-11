@@ -13,6 +13,6 @@ MongoDB is used with Mongoose for data storage.
 <br>
 
 <p float="center">
-<img src="Screenshots/add_new_place.PNG" height="350" width="500" </img>
-<img src="Screenshots/read_more.PNG" height="350" width="500" </img>
+<img src="Screenshots/add_new_place.PNG" </img>
+<img src="Screenshots/read_more.PNG"</img>
 </p>
