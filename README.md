@@ -4,7 +4,7 @@
 
 ### Home page
 <p float="left">
-<img src="Screenshots/home.PNG" height="300" width="400"</img>
+<img src="Screenshots/home.PNG"</img>
 </p>
 
 ### Add new Place
