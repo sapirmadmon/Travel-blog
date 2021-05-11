@@ -14,5 +14,10 @@ MongoDB is used with Mongoose for data storage.
 
 <p float="center">
 <img src="Screenshots/add_new_place.PNG" </img>
+</p>
+
+<br>
+
+<p float="center">
 <img src="Screenshots/read_more.PNG"</img>
 </p>
