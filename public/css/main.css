@@ -1,0 +1,11 @@
+body {
+    background-image: url('/pictures/background.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1550px 730px;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Anton';
+}

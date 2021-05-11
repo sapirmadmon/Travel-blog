@@ -1,0 +1,15 @@
+<div class="form-groups">
+    <label for="title">Place</label>
+    <input required value="<%= place.title%>" type="text" name="title" id="title" class="form-control">
+</div>
+<div class="form-groups">
+    <label for="description">Description</label>
+    <textarea name="description" id="description" class="form-control">
+        <%= place.description%> </textarea>
+</div>
+<div class="form-groups">
+    <label for="markdown">Markdown</label>
+    <textarea required name="markdown" id="markdown" class="form-control"><%= place.markdown%> 
+    </textarea>
+</div>
+<br>
